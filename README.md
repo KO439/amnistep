@@ -68,8 +68,8 @@ AmniStep contribue à :
 
 ## 🤝 Contributeurs
 
-- **Khouloud Othmani** – Fondatrice, ingénieure hardware  
-- (ajoute d'autres membres si applicable)  
+- **Youssef Harbi** – Fondateur, élève ingénieur biomédical 
+- **Khouloud Othmani** – Co-fondatrice, élève ingénieure hardware
 
 ---
 
