@@ -1,4 +1,4 @@
-# 👟 AmniStep – Semelle Connectée pour Seniors
+# 👟 amniStep – Semelle Connectée pour Seniors
 
 **AmniStep** est une semelle intelligente conçue pour détecter les chutes chez les personnes âgées et alerter automatiquement leurs proches ou les secours en temps réel. Discrète, confortable et dotée d’une grande autonomie, elle s’intègre parfaitement dans les chaussons ou chaussures habituelles.
 
@@ -22,7 +22,7 @@ Réduire les conséquences graves des chutes chez les seniors en proposant une s
 
 ## ⚙️ Technologies utilisées
 
-- **IoT **  
+- **IoT**  
 - **Capteurs IMU (accéléromètre, gyroscope)**  
 - **Bluetooth Low Energy (BLE)**  
 - **Machine Learning embarqué**  
