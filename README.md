@@ -48,18 +48,21 @@ AmniStep contribue à :
 
 ---
 
-## 🛠️ État du projet
+🛠️ État du projet
+🔄 Prototype électronique en cours de développement
 
-- ✅ Prototype électronique validé  
-- 🔄 Phase de test en cours avec utilisateurs réels  
-- 📝 Candidature au label Startup Act en Tunisie  
-- 📦 Préparation d'une première version bêta  
+🔄 Phase de test avec utilisateurs réels en cours
+
+📝 Candidature au label Startup Act en Tunisie
+
+📦 Préparation d'une première version bêta
 
 ---
 
 ## 📸 Aperçu
 
-*Images à venir : maquette de la semelle, carte électronique, interface mobile, etc.*
+![Maquette de la semelle connectée](semelle.jpg)
+
 
 ---
 
@@ -72,16 +75,17 @@ AmniStep contribue à :
 
 ## 📬 Contact
 
-Pour en savoir plus, proposer un partenariat ou participer à la phase de test :  
+Pour en savoir plus, contactez-nous  
 
-📧 contact@amnistep.tn  
+📧 harbiyoussef8@gmail.com  
+📧 othmanikhouloud0@gmail.com  
 🌐 [Site Web à venir]  
 
 ---
 
 ## 📄 Licence
 
-Ce projet est sous licence libre pour usage non commercial. Contactez-nous pour plus de détails.
+Ce projet est sous licence libre pour usage commercial. Contactez-nous pour plus de détails.
 
 ---
 
