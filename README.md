@@ -61,7 +61,7 @@ AmniStep contribue à :
 
 ## 📸 Aperçu
 
-![Maquette de la semelle connectée](semelle.jpg)
+![Maquette de la semelle connectée](semelle.png)
 
 
 ---
