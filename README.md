@@ -22,7 +22,7 @@ Réduire les conséquences graves des chutes chez les seniors en proposant une s
 
 ## ⚙️ Technologies utilisées
 
-- **IoT (ESP32 ou similaire)**  
+- **IoT **  
 - **Capteurs IMU (accéléromètre, gyroscope)**  
 - **Bluetooth Low Energy (BLE)**  
 - **Machine Learning embarqué**  
